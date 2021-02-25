@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### Contact with me:
 
-[<img align="left" alt="yigidosoft.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yigidosoft.com" width="22px" src="https://www.iconfinder.com/icons/2305615/download/svg/512" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://www.iconfinder.com/icons/5296521/download/svg/512" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.iconfinder.com/icons/5296501/download/svg/512" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://www.iconfinder.com/icons/4102579/download/svg/512" />][instagram]
 
 [website]: http://yigidosoft.com
 [youtube]: https://www.youtube.com/channel/UCqbtZTn2OllHLx8hJoLbiCA

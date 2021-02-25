@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="YouTube" width="22px" src="https://www.iconfinder.com/icons/5296521/download/svg/512" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.iconfinder.com/icons/5296501/download/svg/512" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://www.iconfinder.com/icons/4102579/download/svg/512" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://www.iconfinder.com/icons/4572230/download/svg/512" />][email]
 
 [website]: http://yigidosoft.com
 [youtube]: https://www.youtube.com/channel/UCqbtZTn2OllHLx8hJoLbiCA
 [instagram]: https://instagram.com/fatihdelice.jpg
 [linkedin]: https://www.linkedin.com/in/fatih-delice-5726791a2/
+[email]: mailto:fatihdelice@yigidosoft.com

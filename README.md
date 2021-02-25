@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=fatihdelice&show_icons=true&theme=radical" width="455">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihdelice&layout=compact&show_icons=true&theme=radical" height="180">
 
+### Contact with me:
+
+[<img align="left" alt="yigidosoft.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://yigidosoft.com
+[youtube]: https://www.youtube.com/channel/UCqbtZTn2OllHLx8hJoLbiCA
+[instagram]: https://instagram.com/fatihdelice.jpg
+[linkedin]: https://www.linkedin.com/in/fatih-delice-5726791a2/

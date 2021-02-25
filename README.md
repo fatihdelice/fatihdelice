@@ -1,4 +1,3 @@
-### Hi there 👋 I am Fatih
 
 <!--
 **fatihdelice/fatihdelice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

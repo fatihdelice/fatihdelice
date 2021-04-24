@@ -65,7 +65,7 @@ Here are some ideas to get you started:
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
                 alt="php" width="40" height="40"/> </a>
         <a href="https://www.javatpoint.com/jsp-tutorial" target="_blank"> <img
-                src="https://image.flaticon.com/icons/png/512/29/29540.png"
+                src="https://www.w3schools.in/wp-content/uploads/jsp-logo.png"
                 alt="jsp" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"

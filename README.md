@@ -55,10 +55,22 @@ Here are some ideas to get you started:
         <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                 alt="cplusplus" width="40" height="40"/> </a> 
+        <a href="https://www.w3schools.com/cs/" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                alt="csharp" width="40" height="40"/> </a>
         <a href="https://unity.com/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
-                alt="cplusplus" width="40" height="40"/> </a>
+                src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png"
+                alt="unity" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/php/DEFAULT.asp/" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                alt="php" width="40" height="40"/> </a>
+        <a href="https://www.javatpoint.com/jsp-tutorial" target="_blank"> <img
+                src="https://image.flaticon.com/icons/png/512/29/29540.png"
+                alt="jsp" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40"/> </a>        
+                alt="mysql" width="40" height="40"/> </a>
+        <a href="https://www.adobe.com/tr/products/illustrator.html" target="_blank"> <img
+                src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"
+                alt="illustrator" width="40" height="40"/> </a>
     </p>

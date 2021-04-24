@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/fatih-delice-5726791a2/
 [email]: mailto:fatihdelice@yigidosoft.com
 [discord]: https://discord.gg/t7qgzBRr2C
+
+<p align="left">
+        <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/fatihdelice/fatihdelice.svg" />
+</p>

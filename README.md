@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-        <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/fatihdelice/fatihdelice.svg" />
-</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fatihdelice&show_icons=true&theme=radical" width="455">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihdelice&layout=compact&show_icons=true&theme=radical" height="180">
 
@@ -35,6 +32,10 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/fatih-delice-5726791a2/
 [email]: mailto:fatihdelice@yigidosoft.com
 [discord]: https://discord.gg/t7qgzBRr2C
+
+<p align="left">
+        <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/fatihdelice/fatihdelice.svg" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

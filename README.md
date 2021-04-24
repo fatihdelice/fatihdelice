@@ -73,4 +73,10 @@ Here are some ideas to get you started:
         <a href="https://www.adobe.com/tr/products/illustrator.html" target="_blank"> <img
                 src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"
                 alt="illustrator" width="40" height="40"/> </a>
+        <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img
+                src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"
+                alt="photoshop" width="40" height="40"/> </a>
+        <a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> <img
+                src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"
+                alt="premierepro" width="40" height="40"/> </a>
     </p>

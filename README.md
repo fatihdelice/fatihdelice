@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [website]: http://yigidosoft.com
 [youtube]: https://www.youtube.com/channel/UCqbtZTn2OllHLx8hJoLbiCA
-[instagram]: https://instagram.com/fatihscript
+[instagram]: https://instagram.com/delyche
 [linkedin]: https://www.linkedin.com/in/fatih-delice-5726791a2/
 [twitter]: https://twitter.com/fatihscript
 [email]: mailto:fatihdelice@yigidosoft.com

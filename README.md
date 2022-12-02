@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**fatihdelice/fatihdelice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://www.delice.dev/">me</a> .
+    <a href="https://fatihdelice.medium.com/">blog</a> .
+    <a href="https://twitter.com/fatihdew">tweets</a> .
+    <a href="https://discord.gg/TD6DxU95TN">discord</a> .
+    <a href="https://www.instagram.com/fatihdew/">instagram</a> .
+    <a href="https://www.buymeacoffee.com/fatihdelice">buymeacoffee</a>
+  </samp>
+</p>

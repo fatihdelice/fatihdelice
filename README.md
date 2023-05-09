@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/fatihdelice/">linkedin</a> .
     <a href="https://discord.gg/TD6DxU95TN">discord</a> .
     <a href="https://www.instagram.com/fatihdelice_/">instagram</a> .
-    <a href="https://www.buymeacoffee.com/fatihdelice">buymeacoffee</a>
+    <a href="https://www.buymeacoffee.com/fatihdelice">buymeacoffee</a> .
   </samp>
+</p>
+<p align="center">
+    <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/fatihdelice/fatihdelice.svg" />
 </p>

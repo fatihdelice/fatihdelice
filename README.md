@@ -6,7 +6,7 @@
     <a href="https://twitter.com/fatihdelicetr">tweets</a> .
     <a href="https://www.linkedin.com/in/fatihdelice/">linkedin</a> .
     <a href="https://discord.gg/TD6DxU95TN">discord</a> .
-    <a href="https://www.instagram.com/fatihdelicetr/">instagram</a> .
+    <a href="https://www.instagram.com/fatihdelicetr/">instagram</a>
   </samp>
 </p>
 <p align="center">

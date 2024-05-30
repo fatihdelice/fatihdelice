@@ -9,6 +9,7 @@
     <a href="https://www.instagram.com/fatihdelicetr/">instagram</a>
   </samp>
 </p>
+
 <p align="center">
     <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/fatihdelice/fatihdelice.svg" />
 </p>
